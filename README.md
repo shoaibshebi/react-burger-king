@@ -1,7 +1,15 @@
 <img src="./1.png">
 <img src="./2.png">
 <img src="./3.png">
-**Note: IN THIS PROJECT,I DID'NT FOCUSED ON THE FRONT-END DESIGNING,  I ONLY FOCUSED ON LOGIC, STATE MANAGMENT AND MAKING THE APP DYNAMIC. ALMOST ALL THE FEATURES OF REACT ARE USED IN IT.!**
+**Note: IN THIS PROJECT,I DID'NT FOCUSED ON THE FRONT-END DESIGNING,  I ONLY FOCUSED ON LOGIC, STATE MANAGMENT AND MAKING THE APP DYNAMIC. ALMOST ALL THE FEATURES OF REACT ARE USED IN IT 
+
+✔ JavaScript (ES5/ES6)
+✔ ReactJS, Redux , Context API
+✔ Libraries & Middleware ( rėdux-thunk,rėdux-saga ,react-router-dom, Axios etc )
+✔ HTML5, CSS
+✔ UI/UX, Responsive
+✔  Bootstrap,
+**
 
 [GET the DEMO here](https://react-my-burger-dfced.firebaseapp.com)
 
