@@ -1,6 +1,9 @@
+<img src="./1.png">
+<img src="./2.png">
+<img src="./3.png">
+**Note: IN THIS PROJECT,I DID'NT FOCUSED ON THE FRONT-END DESIGNING,  I ONLY FOCUSED ON LOGIC, STATE MANAGMENT AND MAKING THE APP DYNAMIC. ALMOST ALL THE FEATURES OF REACT ARE USED IN IT.!**
 
-
-[GET the DEMO here](https://github.com/facebook/create-react-app)
+[GET the DEMO here](https://react-my-burger-dfced.firebaseapp.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
